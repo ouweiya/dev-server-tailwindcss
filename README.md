@@ -35,7 +35,7 @@ export default {
 };
 ```
 
-# Dev and Prod
+## Dev and Prod
 
 ```js
 import tailwindcss from 'tailwindcss';
