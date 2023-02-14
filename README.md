@@ -10,7 +10,7 @@ npm i dev-server-tailwindcss -D
 
 ## Usage
 
-**web-dev-server.config.js**
+**`web-dev-server.config.js`**
 
 ```js
 import tailwindcssPlugin from 'dev-server-tailwindcss';
