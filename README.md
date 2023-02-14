@@ -21,7 +21,7 @@ export default {
 };
 ```
 
-## postcss.config.js
+## `postcss.config.js`
 
 Use the ES module for the configuration file and add `"type": "module"` in package.json.
 
