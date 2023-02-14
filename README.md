@@ -1,6 +1,6 @@
 ## Description
 
-Providing Tailwind CSS support for @web/dev-server.
+Providing Tailwind CSS support for [`@web/dev-server`](https://github.com/modernweb-dev/web).
 
 ## Install
 
