@@ -1,3 +1,7 @@
+## Description
+
+Providing Tailwind CSS support for @web/dev-server.
+
 ## Install
 
 ```console
